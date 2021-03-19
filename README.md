@@ -1,4 +1,3 @@
-# qianduan
-kaikeba
+# 简单构造 unittest 自动化框架
 
-开始学习使用github管理自己的代码
+# 使用 HTMLTesTRunner.py 生成html的测试报告
